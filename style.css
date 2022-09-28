@@ -1,0 +1,80 @@
+body {
+  background-image: url(file:///C:/Users/erikm/OneDrive/%C3%81rea%20de%20Trabalho/Sito%20Boolean/Coding%20Challenge/background2.jpg);
+  background-size: cover;
+  font-family: 'Bodoni', sans-serif;
+}
+
+.title{
+  color: #00ff00;
+}
+
+.img-header{
+  width: 150px;
+  height: 75px;
+}
+
+header{
+  width: 500px;
+margin: auto;
+line-height: 0.6;
+}
+
+nav{
+  background-color: #00ff00;
+padding: 8px;
+margin: auto;
+margin-left: 90px;
+margin-right:90px;
+}
+
+
+.container{
+width: 800px;
+text-align: center;
+margin: auto;
+margin-top: 80px;
+margin-bottom: 80px;
+background-color: rgba(0,0,0,0.5);
+border-radius: 30px;
+padding: 50px;
+}
+
+
+
+#battery-bar1 {
+border: 2px solid gold;
+border-radius: 3px;
+background-color:gold;
+color: gold;
+}
+
+#battery-bar2 {
+border: 2px solid green;
+border-radius: 3px;
+background-color: green;
+color: green;
+}
+
+#battery-bar3 {
+border: 2px solid red;
+border-radius: 3px;
+background-color: red;
+color: red;}
+
+.mp-model {
+  font-size: 20px
+}
+
+
+.info-patini {
+  color: white;
+}
+
+
+main{
+  width: 800px;
+  text-align: left;
+  margin: 20px;
+  margin-left: 90px;
+  line-height: 1.5;
+  }
